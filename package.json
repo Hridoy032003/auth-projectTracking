@@ -16,6 +16,7 @@
     "express": "^5.1.0",
     "mongoose": "^8.16.1",
     "nodemon": "^3.1.10",
+    "puppeteer": "^24.12.0",
     "session": "^0.1.0"
   }
 }
